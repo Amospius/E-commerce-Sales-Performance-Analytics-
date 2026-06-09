@@ -39,7 +39,7 @@ R5 — Prioritise Laptop and Monitor in premium campaigns (Medium Priority) Both
 
 R6 — Always report median, not mean, for order value (Low Priority) The $230 gap between mean and median means the business may be making decisions based on an inflated view of typical customer spend. Standardise on median ($824) for internal reporting.
 
-6. Conclusion
+5. Conclusion
 
 This EDA reveals a business with strong multi-channel diversification and a clear seasonal revenue pattern centred on Q2, but with two critical risks that require immediate attention: a 41.4% order failure rate (cancellations + returns) and a declining year-on-year revenue trajectory. The data also surfaces a hidden B2B opportunity in bulk orders and a premium segment in Laptop and Monitor categories that is currently underleveraged. Addressing the operational risks while capitalising on these growth opportunities represents the clearest path to improved business performance.
 
